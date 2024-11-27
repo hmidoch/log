@@ -42,3 +42,85 @@
     ouverts à l'extension fermés à la modification
 
 - Parmi les éléments suivants, lequel n'est pas un exemple de non-qualité ?
+
+
+
+
+
+
+
+definition================
+Définitions générales
+Génie logiciel :
+Ensemble des méthodes, techniques et outils nécessaires à la production de logiciels de qualité industrielle. Objectifs :
+
+Satisfaire les utilisateurs (logiciels adaptés aux besoins).
+Réduire les coûts de maintenance pour les gestionnaires.
+Livrer des logiciels productifs dans des délais raisonnables​(Cours Qualite Logiciel …).
+Logiciel :
+Composé de :
+
+Spécifications (fonctions, facteurs qualité, contraintes, interfaces).
+Conception (modules, interfaces, algorithmes).
+Code source et exécutable.
+Suivi d'avancement (plannings, documents)​(Cours Qualite Logiciel …).
+Définitions de la qualité logicielle
+Définition intuitive :
+
+La qualité est la conformité avec les besoins, l’adéquation avec l’usage attendu, le degré d’excellence ou simplement la valeur de quelque chose pour quelqu’un.
+
+Définition ISO :
+
+Ensemble des traits et caractéristiques d’un produit logiciel portant sur son aptitude à satisfaire des besoins exprimés ou implicites.
+
+Définition IEEE :
+
+La qualité du logiciel correspond au degré selon lequel un logiciel possède une combinaison d’attributs désirés.
+
+Définition de Crosby :
+
+La qualité du logiciel correspond au degré selon lequel un client perçoit qu’un logiciel répond aux multiples attentes.
+
+Définition de Pressman :
+
+Conformité aux exigences explicites (fonctionnelles et de performances), aux standards documentés, et aux caractéristiques implicites attendues de tout logiciel professionnellement développé​(Cours Qualite Logiciel …).
+
+Définitions liées aux facteurs de qualité
+Conformité :
+Capacité à satisfaire les spécifications, à condition qu'elles existent et soient correctes.
+
+Robustesse :
+Capacité d’un logiciel à ne pas tomber en panne (tolérance aux pannes, recouvrement des erreurs).
+
+Efficacité :
+Optimisation des ressources utilisées par le logiciel (CPU, mémoire, etc.).
+
+Sécurité :
+Surveillance, contrôle et interdiction des accès non autorisés.
+
+Maniabilité :
+Minimisation de l’effort d’apprentissage pour utiliser le système.
+
+Maintenabilité :
+Effort nécessaire pour localiser et corriger les fautes ou faire évoluer le système.
+
+Testabilité :
+Facilité et possibilité d’automatiser les tests.
+
+Adaptabilité :
+Capacité à minimiser l’effort pour faire évoluer le système selon les besoins.
+
+Portabilité :
+Aptitude du logiciel à être transféré d’un environnement à un autre sans effort majeur.
+
+Interopérabilité :
+Capacité du logiciel à interagir avec d’autres systèmes ou logiciels​(Cours Qualite Logiciel …).
+
+Principes de conception
+OCP (Open-Closed Principle) :
+Les modules doivent être :
+
+Ouverts aux extensions : ils peuvent être enrichis avec de nouvelles fonctionnalités.
+Fermés aux modifications : leur code existant ne doit pas être modifié​(Cours Qualite Logiciel …).
+Couplage fort :
+Lorsque deux classes sont fortement dépendantes l'une de l'autre, elles sont dites fortement couplées, ce qui complique la maintenance et les évolutions​(Cours Qualite Logiciel …).
