@@ -42,7 +42,10 @@
     ouverts à l'extension fermés à la modification
 
 - Parmi les éléments suivants, lequel n'est pas un exemple de non-qualité ?
+        Un élément qui respecte les spécifications et répond aux attentes du client n’est pas un exemple de non-qualité. Par exemple :
 
+        Un logiciel bien documenté et testé est un exemple de qualité et non de non-qualité.
+        En revanche, des problèmes comme une mauvaise spécification, un codage défaillant ou des tests insuffisants sont des exemples typiques de non-qualité
 
 
 
