@@ -1,24 +1,27 @@
 - Quelles sont les étapes du processus de développement ?
-    specification
-    analyse
-    conception gnerale et detaier
-    realization
-    test et integration et validation
-    deployment
+    Spécification
+    Analyse
+    Conception générale
+    Conception détaillée & qualification
+    Codage
+    Test unitaire
+    Intégration
+    Documentation
+    Mise en production
     Maintenance
 - Le cycle de développement
-    specification
-    analyse
-    conception gnerale et detaier
-    realization
-    test et integration et validation
-    deployment
-    Maintenance
+    Cascade,
+    V,
+    Y
+    Prototypage,
+    Incremental ou itératif
+    Spirale
 - Les méthodes de développement agiles
     scrum
     xp
     fdd 
     canban
+    rad
 
 - La définition de la qualité logicielle selon la norme ISO
     L'ensemble des traits et caractéristiques d’un produit logiciel portant sur son aptitude à satisfaire des besoins exprimés ou implicites.
@@ -31,6 +34,9 @@
     Facteurs
     Critères
     Métriques
+    ->Conformité
+    ->Adaptabilité
+    ->Sécurité
 
 - Donner 3 facteurs de qualité
     facilite
@@ -51,7 +57,38 @@
         Un logiciel bien documenté et testé est un exemple de qualité et non de non-qualité.
         En revanche, des problèmes comme une mauvaise spécification, un codage défaillant ou des tests insuffisants sont des exemples typiques de non-qualité
 
+-Classe A est liée à l'interface B
+    Couplage faible
 
+-D.P. Singleton fait partie de quelle catégorie ?
+    Création
+
+-D.P. Composite
+    Structure
+
+-D.P. Prototype
+    Création
+
+-D.P. Adapter
+    Structure
+
+-D.P. sont classifiés sous deux portées (classification de GOF)
+    Vrai
+    classe
+    objet
+
+-D.P. Singleton a pour but d'assurer qu'une classe ne possède qu'une seule instance
+    Vrai
+
+-Diagramme de classe Composite
+    Oui
+
+-Diagramme de classe Decorator
+    Oui
+
+-Le rôle de D.P. Decorator
+    Vrai
+    
 
 
 
