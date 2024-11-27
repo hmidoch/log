@@ -1,0 +1,44 @@
+- Quelles sont les étapes du processus de développement ?
+    specification
+    analyse
+    conception gnerale et detaier
+    realization
+    test et integration et validation
+    deployment
+    Maintenance
+- Le cycle de développement
+    specification
+    analyse
+    conception gnerale et detaier
+    realization
+    test et integration et validation
+    deployment
+    Maintenance
+- Les méthodes de développement agiles
+    Itérations courtes
+    Collaboration client-développeurs
+    Adaptation rapide
+- La définition de la qualité logicielle selon la norme ISO
+    L'ensemble des traits et caractéristiques d’un produit logiciel portant sur son aptitude à satisfaire des besoins exprimés ou implicites.
+- Les tests unitaires
+
+- La définition de la qualité selon ISEB
+    La conformité d’un produit ou service aux attentes explicites ou implicites des utilisateurs, tout en assurant une fiabilité et une performance adéquates.
+
+- Les 3 niveaux du modèle de qualité
+    Facteurs qualité
+    Critères qualité
+    Métriques
+
+- Donner 3 facteurs de qualité
+    Robustesse
+    Efficacité 
+    Maintenabilité 
+
+- Quand une classe A est liée à une classe B, on dit :
+    La classe A est fortement couplée à la classe B.
+
+- Que signifie OCP ?
+    ouverts à l'extension fermés à la modification
+
+- Parmi les éléments suivants, lequel n'est pas un exemple de non-qualité ?
