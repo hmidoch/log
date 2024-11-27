@@ -15,9 +15,11 @@
     deployment
     Maintenance
 - Les méthodes de développement agiles
-    Itérations courtes
-    Collaboration client-développeurs
-    Adaptation rapide
+    scrum
+    xp
+    fdd 
+    canban
+
 - La définition de la qualité logicielle selon la norme ISO
     L'ensemble des traits et caractéristiques d’un produit logiciel portant sur son aptitude à satisfaire des besoins exprimés ou implicites.
 - Les tests unitaires
@@ -26,11 +28,13 @@
     La conformité d’un produit ou service aux attentes explicites ou implicites des utilisateurs, tout en assurant une fiabilité et une performance adéquates.
 
 - Les 3 niveaux du modèle de qualité
-    Facteurs qualité
-    Critères qualité
+    Facteurs
+    Critères
     Métriques
 
 - Donner 3 facteurs de qualité
+    facilite
+    disponibilite
     Robustesse
     Efficacité 
     Maintenabilité 
